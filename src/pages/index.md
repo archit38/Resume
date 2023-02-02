@@ -1,7 +1,7 @@
 ---
 title: Archit Bhardwaj - Resume
 layout: ../layouts/Minimalist.astro
-pdfLink: resume.pdf
+pdfLink: Archit_resume.pdf
 ---
 
 # Archit Bhardwaj

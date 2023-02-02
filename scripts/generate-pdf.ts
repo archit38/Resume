@@ -10,7 +10,7 @@ import { chromium } from 'playwright';
   await downloadButton.evaluate((node) => (node.innerHTML = ''));
 
   await page.pdf({
-    path: 'public/resume.pdf',
+    path: 'public/Archit_resume.pdf',
     margin: {
       top: '50px',
       bottom: '80px',
