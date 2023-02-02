@@ -1,61 +1,76 @@
 ---
-title: Richard Hendriks - Resume
+title: Archit Bhardwaj - Resume
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# Archit Bhardwaj
 
-**Programmer**
+**Software Developer**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Lancaster, UK | architbhardwaj88@gmail.com
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+Senior software engineer with 9+ years of experience in the full software development cycle, specializing in C#, SQL, and JS frameworks like React/Next/Astro. Constantly honing my skillset to stay up-to-date with the latest technologies.
+Recently I have developed proficiency in DevOps, especially in the use of Infrastructure as Code (IAC) tools such as Terraform and automation of Continuous Integration/Continuous Delivery (CI/CD). Additionally, I am comfortable working both independently and collaboratively, with previous experience in mentoring.
+
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [Code Computer Love](https://www.codecomputerlove.com/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Senior Software Engineer | Feb 2022 - Current
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- NET Core(C#) and SQL, Azure, AWS
 
-#### Software Engineer | Aug 2018 - Oct 2022
+- React and NextJS for front end development
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- Implemented automated Deployment and CI on AWS, Azure using IAC
 
-### [Pied Piper](http://piedpiper.com/)
+- Worked individually and as a team using agile methodologies where appropriate.
 
-#### CEO/President | Dec 2013 - Dec 2014
+- Interacting with clients and their developers for the purpose of integrating systems.
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+- Database architecture and solution design.
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+- Mentor Junior developers
 
-## Projects
+### [Accessplanit](https://www.accessplanit.com/)
+#### Software Developer | Jan 2014 - Jan 2021
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+- Lead a team of 8 developers towards the last couple of years
 
-#### Occaecat qui Lorem adipisicing ut sunt aute. | Oct 2014
+- Work on a high traffic system based on ASP.NET(C#) and SQL, React, Azure
 
-Nisi sit consectetur consectetur nulla. Nulla nostrud aliqua duis aliquip sunt. Cupidatat commodo cillum dolore nulla veniam enim in enim sint velit proident. Cupidatat laboris exercitation aliquip dolore eu elit. In mollit veniam eiusmod irure anim sit aute eu magna cillum. Sint aute irure laboris aute officia in velit in irure deserunt. Incididunt mollit mollit pariatur laborum laboris mollit ad enim ipsum deserunt. Ad tempor nulla occaecat consequat dolor nulla
+- Implemented automated Deployment and CI
 
-#### Video Compression for 3D Media
+- Handled Dev support for all clients which enhanced my working under pressure skills
 
-#### Founder | Oct 2014
+- Refactored system to adhere to OOP concepts
 
-Innovative middle-out compression algorithm that changes the way we store data.
+- Focused on TDD.
 
-## Languages
+- DevOps: Build and Release cycles
 
-| English        |
-| -------------- |
-| Native speaker |
+- Dealing with Clients/ Client developers in relation to integrations.
+
+- Database architecture / solution design
+
+## Skills
+- Strong knowledge of server-side programming languages such as C',Node.js.
+- Experience with relational databases (e.g. MySQL, PostgreSQL) and NoSQL databases (e.g. MongoDB, Cassandra)
+- Experience with HTMl, CSS and JS frameworks like React, Angular, Vue, Knockout.
+- Familiarity with cloud platforms such as Amazon Web Services (AWS), Google Cloud - Platform (GCP), or Microsoft Azure.
+- Knowledge of microservices architecture and API design.
+- Ability to design, implement, and maintain scalable, high-performance systems.
+- Experience with DevOps practices, including continuous integration, deployment, and testing.
+- Knowledge of security best practices and experience implementing security measures in web applications.
+- Familiarity with containerization technologies such as Docker and Kubernetes.
+- Ability to work with and lead cross-functional teams, including developers, designers, and product managers.
+- Strong debugging and problem-solving skills.
+
 
 ## Education
 
-### University of Oklahoma
+### Lancaster University
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### 1st class (Hons) BEng Computer Science | Jun 2007 - Jun 2010
