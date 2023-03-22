@@ -56,11 +56,11 @@ Recently I have developed proficiency in DevOps, especially in the use of Infras
 - Database architecture / solution design
 
 ## Skills
-- Strong knowledge of server-side programming languages such as C',Node.js.
-- Experience with relational databases (e.g. MySQL, PostgreSQL) and NoSQL databases (e.g. MongoDB, Cassandra)
-- Experience with HTMl, CSS and JS frameworks like React, Angular, Vue, Knockout.
-- Familiarity with cloud platforms such as Amazon Web Services (AWS), Google Cloud - Platform (GCP), or Microsoft Azure.
+- Strong knowledge of server-side programming languages such as C#,Node.js.
 - Knowledge of microservices architecture and API design.
+- Experience with relational databases (e.g. MySQL, PostgreSQL) and NoSQL databases (e.g. MongoDB, Cassandra)
+- Familiarity with cloud platforms such as AWS, Azure, GCP.
+- Experience with HTMl, CSS and JS frameworks like React, Angular, Vue, Knockout.
 - Ability to design, implement, and maintain scalable, high-performance systems.
 - Experience with DevOps practices, including continuous integration, deployment, and testing.
 - Knowledge of security best practices and experience implementing security measures in web applications.
