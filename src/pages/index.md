@@ -20,7 +20,9 @@ Recently I have developed proficiency in DevOps, especially in the use of Infras
 
 #### Senior Software Engineer | Feb 2022 - Current
 
-- NET Core(C#) and SQL, Azure, AWS
+- .NET Core(C#) and SQL, Azure, AWS
+
+- REST API and GraphQL
 
 - React and NextJS for front end development
 
@@ -56,7 +58,7 @@ Recently I have developed proficiency in DevOps, especially in the use of Infras
 - Database architecture / solution design
 
 ## Skills
-- Strong knowledge of server-side programming languages such as C#,Node.js.
+- Strong knowledge of server-side technologies such as C#,Python,Node.js,GraphQL.
 - Knowledge of microservices architecture and API design.
 - Experience with relational databases (e.g. MySQL, PostgreSQL) and NoSQL databases (e.g. MongoDB, Cassandra)
 - Familiarity with cloud platforms such as AWS, Azure, GCP.
