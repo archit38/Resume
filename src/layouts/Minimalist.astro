@@ -1,4 +1,3 @@
-// @ts-nocheck
 ---
 import '@fontsource/poppins';
 import Download from '../components/Download.astro';
@@ -10,6 +9,7 @@ export interface Props {
   noIndex?: boolean;
 }
 
+// @ts-ignore
 const { title, pdfLink, noIndex } = Astro.props.frontmatter as Props;
 
 const initials = title
