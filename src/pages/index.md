@@ -10,8 +10,8 @@ pdfLink: Archit_resume.pdf
 
 Lancaster, UK | architbhardwaj88@gmail.com
 
-Senior software engineer with 9+ years of experience in the full software development cycle, specializing in C#, SQL, and JS frameworks like React/Next. Constantly honing my skillset to stay up-to-date with the latest technologies.
-Recently I have developed proficiency in DevOps, especially in the use of Infrastructure as Code (IAC) tools such as Terraform and automation of Continuous Integration/Continuous Delivery (CI/CD). Additionally, I am comfortable working both independently and collaboratively, with previous experience in mentoring.
+Senior software engineer with 9+ years of experience in the full software development cycle, specializing in C#, SQL, and JS frameworks like React. Constantly honing my skillset to stay up-to-date with the latest technologies.
+Recently I have developed proficiency in DevOps, especially in the use of Infrastructure as Code (IAC) tools such as Terraform for Azure and automation of Continuous Integration/Continuous Delivery (CI/CD). Additionally, I am comfortable working both independently and collaboratively, with previous experience in mentoring.
 
 ## Skills
 
@@ -35,6 +35,7 @@ Recently I have developed proficiency in DevOps, especially in the use of Infras
 ### Serverless and Cloud Computing:
 - Proficient in serverless architectures and technologies.
 - Experience with serverless platforms like AWS Lambda, Azure Functions, or Google Cloud Functions.
+- Experience in managing and deploying services on Azure app service, AWS EC2
 - Understanding of event-driven and microservices architectures.
 
 ### System Architecture and Design:
@@ -72,7 +73,7 @@ Recently I have developed proficiency in DevOps, especially in the use of Infras
 - Mentor Junior developers
 
 ### [Open ECX](https://openecx.com/)
-#### Software Developer | Oct 2021 - Jan 2022
+#### Senior Software Developer | Oct 2021 - Jan 2022
 
 - Work on a high traffic system based on ASP.NET(C#) , Blazor and SQL
 
