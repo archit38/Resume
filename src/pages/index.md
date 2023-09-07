@@ -10,7 +10,7 @@ pdfLink: Archit_resume.pdf
 
 Lancaster, UK | architbhardwaj88@gmail.com
 
-Senior software engineer with 9+ years of experience in the full software development cycle, specializing in C#, SQL, and JS frameworks like React/Next/Astro. Constantly honing my skillset to stay up-to-date with the latest technologies.
+Senior software engineer with 9+ years of experience in the full software development cycle, specializing in C#, SQL, and JS frameworks like React/Next. Constantly honing my skillset to stay up-to-date with the latest technologies.
 Recently I have developed proficiency in DevOps, especially in the use of Infrastructure as Code (IAC) tools such as Terraform and automation of Continuous Integration/Continuous Delivery (CI/CD). Additionally, I am comfortable working both independently and collaboratively, with previous experience in mentoring.
 
 ## Skills
@@ -71,8 +71,25 @@ Recently I have developed proficiency in DevOps, especially in the use of Infras
 
 - Mentor Junior developers
 
+### [Open ECX](https://openecx.com/)
+#### Software Developer | Oct 2021 - Jan 2022
+
+- Work on a high traffic system based on ASP.NET(C#) , Blazor and SQL
+
+- Maintained and created services on Azure app services using
+
+- Handled Dev support for all clients which enhanced my working under pressure skills
+
+- Refactored system to adhere to OOP concepts
+
+- DevOps: Build and Release cycles
+
+- Dealing with Clients/ Client developers in relation to integrations.
+
+- Database architecture / solution design
+
 ### [Accessplanit](https://www.accessplanit.com/)
-#### Software Developer | Jan 2014 - Jan 2021
+#### Software Developer | Jan 2014 - Sept 2021
 
 - Lead a team of 8 developers towards the last couple of years
 
